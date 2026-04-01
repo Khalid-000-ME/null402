@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Configs
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules
+dist
+dist-ssr
+*.local
+
+# Next.js
+.next
+out
+build
+
+# Contracts (Hardhat / Foundry)
+cache
+artifacts
+typechain-types
+typechain
+broadcast
+coverage
+coverage.json
+*.tsbuildinfo
+
+# IDE / OS
+.DS_Store
+.idea
+.vscode
+*.swp
+*.swo
+front
+set-guide-zama.md
+relayer-guides.md
+prompt.md
+nullfi-prd.md
+TBI.md
+index.html
